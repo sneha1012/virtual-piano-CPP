@@ -262,3 +262,4 @@ void check_keys(int x,int y)
 }
 //****************************END OF PIANO***********************************************//
 
+//simple A simple application with graphical user interfaces written in C++. It is basically an electronic piano that uses the keys on the keyboard to map the sounds of the piano.
